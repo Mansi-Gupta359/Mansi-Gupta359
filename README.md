@@ -1,5 +1,5 @@
 # Hi, I'm Mansi gupta 👋
-### I am Mansi Gupta, a pre-final year pursuing B.tech in Computer Science Engineering at UPES, Dehradun. Qualified GATE 2021 as a 3rd year student . 
+### I am Mansi Gupta,Data Analyst with 2 years of experience as a Python Developer in Accenture . 
 #### I'm <img alt="IBM" width="46px" src="https://images.mktw.net/im-242189?width=1280&size=1.77777778" /> IBM Data Science professional certified as well as <img alt="Google" width="46px" src="https://i.gadgets360cdn.com/large/google_full_pixabay_1517481845616.jpg" /> Google Data Analytics professional certified ! Looking forward to learn new things, implement them, and improve what i know !
 <br>
 
