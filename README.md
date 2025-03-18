@@ -2,8 +2,6 @@
 ### Data Engineer | Python Developer | Data Enthusiast
 I am Mansi Gupta, a Data Engineer with 2 years of experience as a Python Developer at Accenture. Passionate about designing scalable data pipelines and transforming raw data into meaningful insights.
 <br>
-
-- 🚀 What I'm Working On
 -🔧 Building ETL pipelines and optimizing data workflows
 <br>
 -📊 Processing and analyzing large-scale datasets
