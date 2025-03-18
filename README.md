@@ -4,10 +4,15 @@ I am Mansi Gupta, a Data Engineer with 2 years of experience as a Python Develop
 <br>
 
 - 🚀 What I'm Working On
+- <br>
 -🔧 Building ETL pipelines and optimizing data workflows
+<br>
 -📊 Processing and analyzing large-scale datasets
+<br>
 -🔍 Exploring cloud technologies and big data frameworks
+<br>
 -💡 Created live Data Science projects using Streamlit & Flask (Check out my repos!)
+<br>
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mansi-gupta-b13b97185/)
 
 ### I :heart: GitHub :octocat: :heart
