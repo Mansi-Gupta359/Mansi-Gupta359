@@ -4,7 +4,6 @@ I am Mansi Gupta, a Data Engineer with 2 years of experience as a Python Develop
 <br>
 
 - 🚀 What I'm Working On
-- <br>
 -🔧 Building ETL pipelines and optimizing data workflows
 <br>
 -📊 Processing and analyzing large-scale datasets
