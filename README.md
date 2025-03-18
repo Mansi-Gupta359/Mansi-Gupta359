@@ -1,12 +1,13 @@
 # Hi, I'm Mansi gupta 👋
-### I am Mansi Gupta,Data Analyst with 2 years of experience as a Python Developer in Accenture . 
-#### I'm <img alt="IBM" width="46px" src="https://images.mktw.net/im-242189?width=1280&size=1.77777778" /> IBM Data Science professional certified as well as <img alt="Google" width="46px" src="https://i.gadgets360cdn.com/large/google_full_pixabay_1517481845616.jpg" /> Google Data Analytics professional certified ! Looking forward to learn new things, implement them, and improve what i know !
+### Data Engineer | Python Developer | Data Enthusiast
+I am Mansi Gupta, a Data Engineer with 2 years of experience as a Python Developer at Accenture. Passionate about designing scalable data pipelines and transforming raw data into meaningful insights.
 <br>
 
-- 🔭 Currently growing my skillset in Data Science & ML
-- 👯 Created live Data Science projects using Streamlit and Flask.. Check it out in my repo!
-- 🤔 I’m looking to/for help with Data Science projects
-- 💬 Ask me about ... Anything
+- 🚀 What I'm Working On
+-🔧 Building ETL pipelines and optimizing data workflows
+-📊 Processing and analyzing large-scale datasets
+-🔍 Exploring cloud technologies and big data frameworks
+-💡 Created live Data Science projects using Streamlit & Flask (Check out my repos!)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mansi-gupta-b13b97185/)
 
 ### I :heart: GitHub :octocat: :heart
